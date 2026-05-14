@@ -14,32 +14,32 @@ I am a passionate developer with a strong foundation in building responsive, fun
 ### Tech Stack & Tools
 
 **Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square)
 
 **Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square)
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=flat-square&logo=cursor&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-%23C1C7C7.svg?style=flat-square&logo=google-chrome&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=flat-square)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square)
+![DevTools](https://img.shields.io/badge/DevTools-%23C1C7C7.svg?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square)
 
 ---
 
@@ -67,18 +67,11 @@ I am a passionate developer with a strong foundation in building responsive, fun
 
 ---
 
-### What I'm Up To
-- I am currently diving deeper into Advanced React patterns and System Architecture.
-- Ask me about MERN stack, API integrations, or frontend UI/UX.
-- Reach me at my contact links below!
-
----
-
 ### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://siva-prasanth-portfolio-two.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Siva-Prasanth-S)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Prasanth-1017)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Prasanth_1017)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square)](https://siva-prasanth-portfolio-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square)](https://www.linkedin.com/in/Siva-Prasanth-S)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square)](https://leetcode.com/Prasanth-1017)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square)](https://www.hackerrank.com/Prasanth_1017)
 
 </div>
