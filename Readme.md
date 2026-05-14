@@ -1,3 +1,5 @@
+<div style="font-family: 'Poppins', sans-serif;">
+
 # Hi There! I'm Siva Prasanth S
 
 ### Full Stack Web Developer | Aspiring Software Engineer
@@ -31,6 +33,10 @@ I am a passionate developer with a strong foundation in building responsive, fun
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=for-the-badge&logo=cursor&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-%23C1C7C7.svg?style=for-the-badge&logo=google-chrome&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -58,17 +64,10 @@ I am a passionate developer with a strong foundation in building responsive, fun
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanth-1011&show_icons=true&theme=radical&hide_border=true" alt="Siva Prasanth S's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanth-1011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Siva-Prasanth-S)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Prasanth-1017)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Prasanth_1017)
+
+</div>
