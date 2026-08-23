@@ -89,7 +89,7 @@ A full-stack analytics platform for processing Excel datasets and presenting the
 
 ---
 
-### Timepiece Shopping Application
+### 2. Timepiece Shopping Application
 
 [Repository](https://github.com/Prasanth-1011/Full-Stack-Final-Assignment) | [Live Application](https://full-stack-final-assignment.vercel.app/)
 
@@ -170,10 +170,9 @@ A frontend shopping website demonstrating JavaScript-based interactions, DOM man
 
 **Key Features**
 
-* Product search and filtering
-* DOM manipulation and dynamic content updates
+* Product search and filtering with DOM manipulation 
 * Automated image slideshow with manual navigation
-* Product image swapping
+* Product image swapping and dynamic content updates
 * Wishlist state management
 * Hover-driven animations
 * JavaScript event handling and timers
@@ -200,8 +199,6 @@ A multi-page responsive shopping website developed to demonstrate Tailwind CSS, 
 * Hover effects, transitions, and animations
 * JavaScript-based product search and filtering
 * Dynamic DOM manipulation
-* Responsive contact form
-* File upload functionality
 * Animated mobile navigation
 * Multi-page navigation and consistent styling
 
@@ -217,15 +214,12 @@ A responsive Udemy homepage recreation focused on structured HTML, maintainable 
 
 **Key Features**
 
-* Structured semantic HTML
-* BEM-based CSS architecture
+* Structured semantic HTML with BEM-based CSS architecture
 * Reusable Flexbox layouts
 * Responsive breakpoints at 1024px, 768px, and 540px
 * Custom fonts using `@font-face`
 * Material Icons integration
-* Static asset management
-* CSS-only background switching
-* `:checked` selector-based interaction
+* CSS-only background switching with `:checked` selector-based interaction
 
 **Technologies:** HTML, CSS, Flexbox, Responsive Design, BEM, Material Icons
 
