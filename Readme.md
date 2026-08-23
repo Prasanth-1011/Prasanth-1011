@@ -14,34 +14,57 @@ My work spans application architecture, frontend development, backend API develo
 
 ## Technical Skills
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square)
+**Frontend:**
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square\&logo=html5\&logoColor=white)
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square\&logo=css3\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square\&logo=typescript\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square\&logo=react\&logoColor=61DAFB)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square\&logo=redux\&logoColor=white)
+
+**Backend:**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square\&logo=express\&logoColor=white)
+
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square\&logo=mysql\&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square\&logo=mongodb\&logoColor=white)
+
+**Tools & Platforms:**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square\&logo=github\&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square\&logo=figma\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square\&logo=vitest\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=flat-square)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square)
+
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square\&logo=vercel\&logoColor=white)
+
+![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=flat-square\&logo=cursor\&logoColor=white)
+
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square\&logo=render\&logoColor=white)
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square\&logo=cloudinary\&logoColor=white)
 
 ---
 
