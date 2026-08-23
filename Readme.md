@@ -2,7 +2,7 @@
 
 ### Junior Software Engineer | JavaScript Full Stack Developer
 
-I build full stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
+I build full-stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
 
 My primary stack includes **React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL**, with additional experience in **TypeScript, SQL, REST APIs, JWT authentication, role-based access control, data visualization, XLSX processing, and cloud-based media management**.
 
@@ -50,20 +50,6 @@ My work spans application architecture, frontend development, backend API develo
 
 ---
 
-## Areas of Focus
-
-* Full stack web application development
-* React.js application development
-* Node.js and Express.js backend development
-* REST API design and integration
-* Authentication and authorization
-* MongoDB and PostgreSQL database applications
-* Data processing and visualization
-* Third-party API and service integration
-* Application deployment and version control
-
----
-
 ## Development Approach
 
 I focus on building applications with clear separation of concerns across the frontend, backend, and data layers.
@@ -77,17 +63,17 @@ My projects typically involve:
 * Handling external services and APIs
 * Processing and transforming application data
 * Testing APIs and application functionality
-* Deploying and maintaining full stack applications
+* Deploying and maintaining full-stack applications
 
 ---
 
 ## Featured Projects
 
-### Excel Data Analytics Platform
+### 1. Excel Data Analytics Platform
 
 [Repository](https://github.com/Prasanth-1011/Excel-Data-Analytics) | [Live Application](https://excel-data-analytics-seven.vercel.app/)
 
-A full stack analytics platform for processing Excel datasets and presenting the resulting data through interactive dashboards.
+A full-stack analytics platform for processing Excel datasets and presenting the resulting data through interactive dashboards.
 
 **Key Features**
 
@@ -107,7 +93,7 @@ A full stack analytics platform for processing Excel datasets and presenting the
 
 [Repository](https://github.com/Prasanth-1011/Full-Stack-Final-Assignment) | [Live Application](https://full-stack-final-assignment.vercel.app/)
 
-A full stack shopping platform built around product discovery, filtering, authentication, cart management, and media handling.
+A full-stack shopping platform built around product discovery, filtering, authentication, cart management, and media handling.
 
 **Key Features**
 
@@ -116,18 +102,18 @@ A full stack shopping platform built around product discovery, filtering, authen
 * Cart functionality
 * Product and media management
 * REST API integration
-* Full stack application architecture
+* Full-stack application architecture
 * Cloud-based media management
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary
 
 ---
 
-### Secure Blog Application
+### 3. Secure Blog Application
 
 [Repository](https://github.com/Prasanth-1011/Blog-Application) | [Live Application](https://blog-application-firebase.vercel.app/)
 
-A full stack blogging platform designed around authenticated content management, Markdown support, image uploads, and dynamic routing.
+A full-stack blogging platform designed around authenticated content management, Markdown support, image uploads, and dynamic routing.
 
 **Key Features**
 
@@ -142,7 +128,7 @@ A full stack blogging platform designed around authenticated content management,
 
 ---
 
-### Weather Forecast Application
+### 4. Weather Forecast Application
 
 [Repository](https://github.com/Prasanth-1011/Weather-App) | [Live Application](https://basic-weather-app-theta.vercel.app/)
 
@@ -159,7 +145,7 @@ A weather application that consumes the OpenWeatherMap API to retrieve and prese
 
 ---
 
-### Task Board
+### 5. Task Board
 
 [Repository](https://github.com/Prasanth-1011/Task-Board) | [Live Application](https://task-board-taupe.vercel.app/)
 
@@ -176,7 +162,7 @@ A task management application focused on interactive task organization and persi
 
 ---
 
-### Online Shopping Website
+### 6. Online Shopping Website
 
 [Repository](https://github.com/Prasanth-1011/Website/) | [Live Application](https://prasanth-1011.github.io/Website/)
 
@@ -200,7 +186,7 @@ A frontend shopping website demonstrating JavaScript-based interactions, DOM man
 
 ---
 
-### Responsive Shop
+### 7. Tailwind Shopping Website
 
 [Repository](https://github.com/Prasanth-1011/Tailwind/) | [Live Application](https://prasanth-1011.github.io/Tailwind/)
 
@@ -223,7 +209,7 @@ A multi-page responsive shopping website developed to demonstrate Tailwind CSS, 
 
 ---
 
-### Udemy Website Clone
+### 8. Udemy Website Clone
 
 [Repository](https://github.com/Prasanth-1011/Udemy-Website/) | [Live Application](https://prasanth-1011.github.io/Udemy-Website/)
 
@@ -245,6 +231,20 @@ A responsive Udemy homepage recreation focused on structured HTML, maintainable 
 
 ---
 
+## Areas of Focus
+
+* Full-stack web application development
+* React.js application development
+* Node.js and Express.js backend development
+* REST API design and integration
+* Authentication and authorization
+* MongoDB and PostgreSQL database applications
+* Data processing and visualization
+* Third-party API and service integration
+* Application deployment and version control
+
+---
+
 ## Connect
 
 [Portfolio](https://siva-prasanth-portfolio-two.vercel.app)
@@ -253,7 +253,3 @@ A responsive Udemy homepage recreation focused on structured HTML, maintainable 
 [HackerRank](https://www.hackerrank.com/Prasanth_1017)
 
 ---
-
-### Open to Opportunities
-
-Open to Software Engineer, Junior Full Stack Developer, and JavaScript Full Stack Developer opportunities focused on building and maintaining production-quality web applications.
