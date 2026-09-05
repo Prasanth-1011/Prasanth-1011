@@ -89,7 +89,7 @@ A full-stack analytics platform for processing Excel datasets and presenting the
 
 ---
 
-### 2. Timepiece Shopping Application
+### 2. Full Stack Ecommerce Platform
 
 [Repository](https://github.com/Prasanth-1011/Full-Stack-Ecommerce/) | [Live Application](https://full-stack-final-assignment.vercel.app/)
 
