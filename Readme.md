@@ -1,6 +1,6 @@
 # Siva Prasanth S
 
-### Junior Software Engineer | JavaScript Full Stack Developer
+### Junior Software Developer | JavaScript Full Stack Developer
 
 I build full-stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
 
@@ -91,7 +91,7 @@ A full-stack analytics platform for processing Excel datasets and presenting the
 
 ### 2. Timepiece Shopping Application
 
-[Repository](https://github.com/Prasanth-1011/Digital-Retail-Platform/) | [Live Application](https://full-stack-final-assignment.vercel.app/)
+[Repository](https://github.com/Prasanth-1011/Full-Stack-Ecommerce/) | [Live Application](https://full-stack-final-assignment.vercel.app/)
 
 A full-stack shopping platform built around product discovery, filtering, authentication, cart management, and media handling.
 
