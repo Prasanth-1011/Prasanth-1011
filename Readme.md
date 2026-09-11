@@ -2,9 +2,9 @@
 
 ### Junior Software Developer | JavaScript Full Stack Developer
 
-I build full-stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
+I build JavaScript full-stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
 
-My primary stack includes **React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL**, with additional experience in **TypeScript, SQL, REST APIs, JWT authentication, role-based access control, data visualization, XLSX processing, and cloud-based media management**.
+My primary stack includes **React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL**, with additional experience in **TypeScript, SQL, REST APIs, JWT authentication, role-based access control, data visualization, and API Integration**.
 
 My work spans application architecture, frontend development, backend API development, database integration, authentication, data processing, and deployment. I focus on building applications that are functional, structured, and ready to evolve beyond the initial implementation.
 
@@ -64,6 +64,20 @@ My projects typically involve:
 * Processing and transforming application data
 * Testing APIs and application functionality
 * Deploying and maintaining full-stack applications
+
+---
+
+## Areas of Focus
+
+* Full-stack web application development
+* React.js application development
+* Node.js and Express.js backend development
+* REST API design and integration
+* Authentication and authorization
+* MongoDB and PostgreSQL database applications
+* Data processing and visualization
+* Third-party API and service integration
+* Application deployment and version control
 
 ---
 
@@ -222,20 +236,6 @@ A responsive Udemy homepage recreation focused on structured HTML, maintainable 
 * CSS-only background switching with `:checked` selector-based interaction
 
 **Technologies:** HTML, CSS, Flexbox, Responsive Design, BEM, Material Icons
-
----
-
-## Areas of Focus
-
-* Full-stack web application development
-* React.js application development
-* Node.js and Express.js backend development
-* REST API design and integration
-* Authentication and authorization
-* MongoDB and PostgreSQL database applications
-* Data processing and visualization
-* Third-party API and service integration
-* Application deployment and version control
 
 ---
 
