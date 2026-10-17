@@ -1,6 +1,6 @@
 # Siva Prasanth S
 
-### Junior Software Developer | JavaScript Full Stack Developer
+### Junior Software Developer | Full Stack Developer
 
 I build JavaScript full-stack web applications with a focus on clean architecture, practical functionality, and maintainable code.
 
@@ -8,7 +8,75 @@ My primary stack includes **React.js, JavaScript, Node.js, Express.js, MongoDB, 
 
 My work spans application architecture, frontend development, backend API development, database integration, authentication, data processing, and deployment. I focus on building applications that are functional, structured, and ready to evolve beyond the initial implementation.
 
-**Open to opportunities in Software Engineering, Full Stack Development, and JavaScript-based application development.**
+**Open To Opportunities - Software Engineering | Full Stack Development.**
+
+---
+
+## Development Approach
+
+I approach development by focusing on building applications that are modular, secure, scalable, maintainable, and performant, while continuously learning the engineering principles behind each layer.
+
+## Frontend
+- Component architecture and reusable UI design
+- Web accessibility (WCAG) and semantic HTML
+- State management and data flow
+- Responsive design and cross-device compatibility
+- Rendering performance and optimization
+
+## Backend
+- REST API design and resource modeling
+- Modular service architecture
+- Business logic organization and separation of concerns
+- Request validation and centralized error handling
+- Asynchronous programming and concurrency
+
+## Application Security
+- Authentication and authorization
+- Session management and JWT-based authentication
+- Role-based access control (RBAC)
+- Password hashing and secure credential handling
+- HTTP security headers and Helmet configuration
+- Input validation and injection prevention
+- Rate limiting, CORS, and CSRF protection
+
+## Databases
+- Data modeling and schema design
+- Entity relationships and data normalization
+- Database indexing and query optimization
+- Transactions and data integrity
+- Database access control and secure query construction
+
+## API Integrations
+- External API and third-party service integration
+- API authentication and credential management
+- Data transformation and serialization
+- Pagination, filtering, and sorting
+- Timeouts, retries, and rate-limit handling
+- Resilient service communication and failure handling
+
+## Testing
+- Unit testing
+- Integration testing
+- REST API testing
+- End-to-end testing
+- Authentication and authorization testing
+- Debugging and regression testing
+
+## Performance & Architecture
+- Caching strategies
+- Frontend bundle and backend response optimization
+- Database query performance
+- Modular and maintainable architecture
+- Clean code and separation of concerns
+- Scalability, reliability, and resource management
+
+## Deployment & Infrastructure
+- Environment configuration and environment variables
+- Secrets management and secure configuration
+- Production builds and deployment workflows
+- CI/CD pipelines and automated testing
+- HTTPS and TLS configuration
+- Application logging, monitoring, and error tracking
 
 ---
 
@@ -47,37 +115,6 @@ My work spans application architecture, frontend development, backend API develo
 ![Cursor](https://img.shields.io/badge/Cursor-24A1DE?style=flat-square\&logo=cursor\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square\&logo=render\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square\&logo=cloudinary\&logoColor=white)
-
----
-
-## Development Approach
-
-I focus on building applications with clear separation of concerns across the frontend, backend, and data layers.
-
-My projects typically involve:
-
-* Designing reusable frontend components
-* Structuring backend services and REST APIs
-* Implementing authentication and authorization
-* Designing and integrating database models
-* Handling external services and APIs
-* Processing and transforming application data
-* Testing APIs and application functionality
-* Deploying and maintaining full-stack applications
-
----
-
-## Areas of Focus
-
-* Full-stack web application development
-* React.js application development
-* Node.js and Express.js backend development
-* REST API design and integration
-* Authentication and authorization
-* MongoDB and PostgreSQL database applications
-* Data processing and visualization
-* Third-party API and service integration
-* Application deployment and version control
 
 ---
 
@@ -142,7 +179,9 @@ A full-stack blogging platform designed around authenticated content management,
 
 ---
 
-### 4. Weather Forecast Application
+## Projects Featuring Technical Exploration
+
+### 1. Weather Forecast Application
 
 [Repository](https://github.com/Prasanth-1011/Weather-App) | [Live Application](https://basic-weather-app-theta.vercel.app/)
 
@@ -159,7 +198,7 @@ A weather application that consumes the OpenWeatherMap API to retrieve and prese
 
 ---
 
-### 5. Task Board
+### 2. Task Board
 
 [Repository](https://github.com/Prasanth-1011/Task-Board) | [Live Application](https://task-board-taupe.vercel.app/)
 
@@ -176,7 +215,7 @@ A task management application focused on interactive task organization and persi
 
 ---
 
-### 6. Online Shopping Website
+### 3. Online Shopping Website
 
 [Repository](https://github.com/Prasanth-1011/Website/) | [Live Application](https://prasanth-1011.github.io/Website/)
 
@@ -199,7 +238,7 @@ A frontend shopping website demonstrating JavaScript-based interactions, DOM man
 
 ---
 
-### 7. Tailwind Shopping Website
+### 4. Tailwind Shopping Website
 
 [Repository](https://github.com/Prasanth-1011/Tailwind/) | [Live Application](https://prasanth-1011.github.io/Tailwind/)
 
@@ -220,7 +259,7 @@ A multi-page responsive shopping website developed to demonstrate Tailwind CSS, 
 
 ---
 
-### 8. Udemy Website Clone
+### 5. Udemy Website Clone
 
 [Repository](https://github.com/Prasanth-1011/Udemy-Website/) | [Live Application](https://prasanth-1011.github.io/Udemy-Website/)
 
